@@ -1,0 +1,2 @@
+[console_scripts]
+card-agent = scripts.run:main
